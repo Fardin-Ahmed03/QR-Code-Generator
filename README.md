@@ -1,4 +1,4 @@
-QR Code Generator using Python
+# QR Code Generator
 
-You MUST have python installed 
-Install 'qrcode' module using "pip install qrcode" in the terminal
+## You must have Python installed.
+## Install 'qrcode' module using ```pip install qrcode``` in the terminal.
